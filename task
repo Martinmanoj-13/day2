@@ -1,0 +1,7 @@
+                                                 DOCUMENT OBJECT
+The document object represent a web page that is loaded in the browser. By accessing the document object, we can access the element in the HTML page.
+With the help of document objects, 
+
+                                                  WINDOW
+window is a browser page where we can see all the outputs directly and 
+it has console, network windw everythong inside it                                                  
